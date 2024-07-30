@@ -80,6 +80,10 @@ Bootstrap 5 HTML CSS Template
                     <li class="nav-item">
                         <a class="nav-link click-scroll" href="#section_5">Contact</a>
                     </li>
+                    <!-- admnin -->
+                    <li class="nav-item">
+                        <a class="nav-link click-scroll" href="Login.php">Login</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -642,7 +646,7 @@ Bootstrap 5 HTML CSS Template
                             <iframe class="google-map mt-2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4800.184803804974!2d-0.10174304922518053!3d51.5087879746898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487605f6fc62fa3d%3A0xc5a39e7cf4e3a9a4!2sTate%20Modern%20Garden!5e1!3m2!1sen!2smm!4v1679331839559!5m2!1sen!2smm" width="100%" height="220" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                         </div>
                     </div>
-
+<!-- 
                     <div class="row">
                         <div class="col-12 mt-5">
                             <h3>Download Contacts Report</h3>
@@ -650,7 +654,7 @@ Bootstrap 5 HTML CSS Template
                             <a href="includes/generate_report.php?format=pdf" class="btn btn-primary">Download PDF</a>
                             <a href="includes/generate_report.php?format=excel" class="btn btn-primary">Download Excel</a>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>

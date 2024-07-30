@@ -8,7 +8,6 @@ try {
     $stmt = $pdo->prepare($sql);
     $stmt->execute();
     $contacts = $stmt->fetchAll();
-    echo json_encode($contacts);
 } catch (PDOException $e) {
     die("Query failed: " . $e->getMessage());
 }
